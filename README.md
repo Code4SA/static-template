@@ -35,18 +35,18 @@ To add more javascript files, either add your code to ``js/app.js`` or add extra
 files to the ``js/`` directory, and add their paths to your frontmatter:
 
 ```yaml
-extra_stylesheets:
-  - /css/foo.js
-  - /css/bar.js
+extra_js:
+  - /js/foo.js
+  - /js/bar.js
 ```
 
 To add more CSS or SCSS, either add it to ``css/app.scss`` or copy the files
 to the ``css`` directory and add their paths to your frontmatter:
 
 ```yaml
-extra_js:
-  - /js/foo.js
-  - /js/bar.js
+extra_stylesheets:
+  - /css/foo.css
+  - /css/bar.css
 ```
 
 You can also install files with Bower: ``bower install -Sp package-to-install``
