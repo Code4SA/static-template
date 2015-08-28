@@ -1,16 +1,6 @@
 ---
 ---
 
-.code4sa {
-  .navbar-brand img {
-    height: 40px;
-    margin-top: -10px;
-  } 
+@import "code4sa-custom-bootstrap";
 
-  .navbar a.twitter {
-    padding-top: 10px;
-    padding-bottom: 10px;
-  }
-}
-
-/* put SCSS here */
+/* put your custom SCSS here */

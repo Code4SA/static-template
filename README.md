@@ -9,7 +9,7 @@ About this template
 This template makes it easy to build GitHub pages static websites that fit the Code for South Africa best practices and guidelines.
 
 * Jekyll-powered GitHub pages template
-* Code for South Africa app templates and layouts
+* Code for South Africa app templates and layouts using the [Code4SA style guide](http://code4sa.org/styles)
 * Google Analytics
 * Bower to install assets
 * jQuery
